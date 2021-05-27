@@ -1,4 +1,6 @@
-## Sample Output
+## Sample Output ON GPU
+
+##### The model has not been uploaded use the link in model folder to download it 
 
 https://user-images.githubusercontent.com/48823353/119777243-826d8000-bee3-11eb-9e18-b2bacbb9025c.mp4
 
